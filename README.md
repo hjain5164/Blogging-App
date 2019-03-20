@@ -1,4 +1,4 @@
-# blogging_app
+# Blogging App
 
 > A Vue.js project
 
@@ -16,3 +16,9 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+Screeenshots of the app are as follows:
+![](https://github.com/hjain5164/Screenshots/blob/master/blog-app-search.gif)
+
+![](https://github.com/hjain5164/Screenshots/blob/master/blog-app.gif)
